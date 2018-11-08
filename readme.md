@@ -12,12 +12,12 @@ Email digests of articles, projects, and news related to DataScience
 
 ### General Datascience  
 
-- [DataScienceWeekly.org]("https://www.datascienceweekly.org/newsletters")
-- [O'Reilly Data Newsletter]("https://www.oreilly.com/topics/data") 🔥🔥🔥
+- [DataScienceWeekly.org](https://www.datascienceweekly.org/newsletters)
+- [O'Reilly Data Newsletter](https://www.oreilly.com/topics/data) 🔥🔥🔥
 
 ### R specific
 
-- [Blogtrottr]("https://blogtrottr.com/")
+- [Blogtrottr](https://blogtrottr.com/)
 
 ## Contribute
 

@@ -1,4 +1,4 @@
-# msds@smu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome MSDS@SMU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > List of awesome resources collected while completing program.
 

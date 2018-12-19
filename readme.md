@@ -1,10 +1,11 @@
-# msds@smu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome MSDS@SMU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > List of awesome resources collected while completing program.
 
 ## Contents
 
 - [Email Newsletters](#Email-Newsletters)
+- [Lecture Repos](#Lecture-Repos)
 
 ## Email Newsletters
 
@@ -22,6 +23,10 @@ Email digests of articles, projects, and news related to DataScience
 ### R specific
 
 - [Blogtrottr](https://blogtrottr.com/)
+
+## Lecture Repos
+
+- [David Josephs's LaTeX Lecture | MSDS6110](https://github.com/josephsdavid/LaTeXLecture) 🔥🔥🔥
 
 ## Contribute
 

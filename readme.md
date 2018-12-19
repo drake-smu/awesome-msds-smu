@@ -10,6 +10,10 @@
 
 Email digests of articles, projects, and news related to DataScience
 
+### Student Discounts  
+
+- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev)
+
 ### General Datascience  
 
 - [DataScienceWeekly.org](https://www.datascienceweekly.org/newsletters)

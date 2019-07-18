@@ -3,7 +3,7 @@
 ## Topics  
 
 ### gitignore  
--[A collection of .gitignore templates](https://github.com/github/gitignore)
+- [A collection of .gitignore templates](https://github.com/github/gitignore)
 
 ### submodules 
 **Attention:** while compiling these resources, and while managing a number nesting 

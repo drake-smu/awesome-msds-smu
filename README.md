@@ -6,6 +6,8 @@
 
 - [Email Newsletters](#Email-Newsletters)
 - [Lecture Repos](#Lecture-Repos)
+- [Programming](#Programming)
+  - [git](programming/git.md)
 
 ## Email Newsletters
 
@@ -27,6 +29,10 @@ Email digests of articles, projects, and news related to DataScience
 ## Lecture Repos
 
 - [David Josephs's LaTeX Lecture | MSDS6110](https://github.com/josephsdavid/LaTeXLecture) 🔥🔥🔥
+
+## Programming  
+
+- [git](programming/git.md)
 
 ## Contribute
 

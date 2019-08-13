@@ -8,6 +8,7 @@
 - [Lecture Repos](#Lecture-Repos)
 - [Programming](#Programming)
   - [git](programming/git.md)
+- [Topic Resources](#Topic-Resources)
 
 ## Email Newsletters
 
@@ -33,6 +34,12 @@ Email digests of articles, projects, and news related to DataScience
 ## Programming  
 
 - [git](programming/git.md)
+
+## Topic Resources
+
+### Time Series 
+
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)🔥 🔥 🔥
 
 ## Contribute
 

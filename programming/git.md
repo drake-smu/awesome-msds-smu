@@ -12,6 +12,14 @@ nesting projects
 
 - [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407) 
 
+### subtrees  
+
+Subtrees are lighterweight than submodules and can be maintained in without 
+needing to actively manage two repos separately.
+
+- [git subtrees: a tutorial](https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844)
+- [Git subtree: the alternative to Git submodule](https://www.atlassian.com/git/tutorials/git-subtree)
+
 ### strategies  
 - [The essence of branch-based workflows](https://www.atlassian.com/blog/git/the-essence-of-branch-based-workflows)
 - [gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
